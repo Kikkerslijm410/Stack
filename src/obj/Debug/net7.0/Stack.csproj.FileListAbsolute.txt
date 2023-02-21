@@ -1,0 +1,15 @@
+C:\School\Projecten\Stack\src\bin\Debug\net7.0\Stack.exe
+C:\School\Projecten\Stack\src\bin\Debug\net7.0\Stack.deps.json
+C:\School\Projecten\Stack\src\bin\Debug\net7.0\Stack.runtimeconfig.json
+C:\School\Projecten\Stack\src\bin\Debug\net7.0\Stack.dll
+C:\School\Projecten\Stack\src\bin\Debug\net7.0\Stack.pdb
+C:\School\Projecten\Stack\src\obj\Debug\net7.0\Stack.csproj.AssemblyReference.cache
+C:\School\Projecten\Stack\src\obj\Debug\net7.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Projecten\Stack\src\obj\Debug\net7.0\Stack.AssemblyInfoInputs.cache
+C:\School\Projecten\Stack\src\obj\Debug\net7.0\Stack.AssemblyInfo.cs
+C:\School\Projecten\Stack\src\obj\Debug\net7.0\Stack.csproj.CoreCompileInputs.cache
+C:\School\Projecten\Stack\src\obj\Debug\net7.0\Stack.dll
+C:\School\Projecten\Stack\src\obj\Debug\net7.0\refint\Stack.dll
+C:\School\Projecten\Stack\src\obj\Debug\net7.0\Stack.pdb
+C:\School\Projecten\Stack\src\obj\Debug\net7.0\Stack.genruntimeconfig.cache
+C:\School\Projecten\Stack\src\obj\Debug\net7.0\ref\Stack.dll
